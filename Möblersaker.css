@@ -1,41 +1,47 @@
 
 
-
+/* kontrollera Bakgrunden */
 .möbhei{
     position: absolute;top: 0%;left: 0%;height: 100%; width: 100%;
 
 }
 
+/* kontrollera första möbel bild */
 .möb1{
     position: absolute;top: 10%;right: 65%;
     width: 20%;
     height: 50%;
 }
 
+/* kontrollera knapp under första möbel bilden */
 .butmöb1{
     position: absolute;top: 60%;right: 70%;
     width: 10%;
     height: 10%;
 }
 
+/* kontrollera andra möbel bild */
 .möb2{
     position: absolute;top: 10%;right: 40%;
     width: 20%;
     height: 50%;
 }
 
+/* kontrollera knappen under andra möbel bild */
 .butmöb2{
     position: absolute;top: 60%;right: 45%;
     width: 10%;
     height: 10%;
 }
 
+/* kontrollera tredje möbel build */
 .möb3{
     position: absolute;top: 5%;right: 10%;
     width: 25%;
     height: 60%;
 }
 
+/* kontrollera knapp under tredje möbel bild */
 .butmöb3{
     position: absolute;top: 60%;right: 19%;
     width: 10%;
@@ -43,7 +49,7 @@
 
 }
 
-
+/* kontrollera knapp nästa sida */
 .butmöb4{
     position: absolute;top: 87%;right: 35%;
     width: 30%;
