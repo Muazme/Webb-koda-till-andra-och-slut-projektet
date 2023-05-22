@@ -1,3 +1,4 @@
+<<<<<<< HEAD:index.css
 
 
 /*this command to controll image*/
@@ -39,4 +40,47 @@ position: absolute;top: 0%;left: 0%;height: 100%; width: 100%;
     position: absolute;top: 15%;right: 20%;
     width: 40%;
     height: 60%;
+=======
+
+
+/*this command to controll image*/
+.background0{
+position: absolute;top: 0%;left: 0%;height: 100%; width: 100%;
+
+}
+
+
+/* this command to controll the text möbler */
+.picbtn0text{
+    position: absolute; ; top: 0.9ch;right: 70%; top: 40%;
+   font-size: 700%; 
+}
+
+/* this command to controll instagram picture*/
+.pics{
+    position: absolute;top: 80%;right: 48.5%;
+}
+
+/* this command to controll youtube picture  */
+.pics2{
+    position: absolute;top: 73%;right: 40%;
+}
+
+/* this command to controll another youtube picture  */
+.pics3{
+    position: absolute;top: 73.5%;right: 58%;
+}
+
+/* this command to controll the text under social media pictures*/ 
+.followus{
+    position: absolute;top: 88%;right: 30%;
+    font-size: 200%;color: indigo;
+}
+
+/* this command to controll furniture picture  */
+.möbshow1{
+    position: absolute;top: 15%;right: 20%;
+    width: 40%;
+    height: 60%;
+>>>>>>> 5eb4ee378e5550e42d1637f3455db7884d98891a:välkomnasida.css
 }
